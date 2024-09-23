@@ -1,0 +1,12 @@
+main {
+    margin: 0 6px;
+    width: 600px;
+    height: 420px;
+    min-height: fit-content;
+    max-width: 100%;
+    background: white;
+}
+
+label {
+    cursor: pointer;
+}
